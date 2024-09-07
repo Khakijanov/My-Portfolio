@@ -18,7 +18,7 @@ function Social() {
           ></path>
         </svg>
       </a>
-      <a href="" target="_blank">
+      <a href="https://github.com/Khakijanov" target="_blank">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           data-name="Layer 1"
@@ -32,7 +32,10 @@ function Social() {
           ></path>
         </svg>
       </a>
-      <a href="" target="_blank">
+      <a
+        href="https://www.linkedin.com/in/mavlon-haqijonov-8972a8325/"
+        target="_blank"
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           data-name="Layer 1"

@@ -31,7 +31,7 @@ const Contact = () => {
               <div className="border w-full md:w-full text-[13px] shadow-lg p-2 flex flex-col gap-1 justify-center items-center">
                 <i class="bx bxl-whatsapp  text-black text-[35px]"></i>
                 <p>My number</p>
-                <a href="#">+998 (99) 009-42-21</a>
+                <a href="tel:+998990094221">+998 (99) 009-42-21</a>
                 <p className="flex items-center ">
                   call me<i class="bx bx-right-arrow-alt"></i>
                 </p>
@@ -39,7 +39,9 @@ const Contact = () => {
               <div className="border text-[13px] w-full md:w-full shadow-lg p-2 flex flex-col gap-1 justify-center items-center">
                 <i class="bx bxl-linkedin text-black text-[35px]"></i>
                 <p>Linkedin</p>
-                <a href="#">haqijonov@gmail.com</a>
+                <a href="https://www.linkedin.com/in/mavlon-haqijonov-8972a8325/">
+                  haqijonov@gmail.com
+                </a>
                 <p className="flex items-center ">
                   write me <i class="bx bx-right-arrow-alt"></i>
                 </p>

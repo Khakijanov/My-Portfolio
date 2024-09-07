@@ -19,7 +19,7 @@ function Home() {
         </div>
 
         <a
-          href="#contact"
+          href="https://t.me/khakijanov"
           className="flex mt-10 md:mt-0 hover:bg-opacity-80 transition-all bg-black md:hidden items-center justify-center gap-1 py-4 w-[150px] mx-auto md:mx-0 text-center text-white font-bold rounded-[20px]"
         >
           Say Hello
