@@ -57,7 +57,7 @@ const Contact = () => {
               <input
                 type="text"
                 placeholder="your name"
-                className="input input-bordered w-full "
+                className="input input-bordered w-full bg-white "
               />
             </label>
             <label className="form-control w-full ">
