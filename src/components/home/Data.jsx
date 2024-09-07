@@ -16,7 +16,7 @@ function Data() {
         stunning and highly functional web applications.
       </p>
       <a
-        href="#contact"
+        href="https://t.me/khakijanov"
         className="hidden hover:bg-opacity-80 transition-all bg-black md:flex items-center justify-center gap-1 py-4 w-[150px] mx-auto md:mx-0 text-center text-white font-bold rounded-[20px]"
       >
         Say Hello
