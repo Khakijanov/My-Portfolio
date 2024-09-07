@@ -67,7 +67,7 @@ const Contact = () => {
               <input
                 type="text"
                 placeholder="your email"
-                className="input input-bordered w-full "
+                className="input input-bordered w-full bg-white"
               />
             </label>
             <label className="form-control ">
@@ -75,7 +75,7 @@ const Contact = () => {
                 <span className="label-text">project</span>
               </div>
               <textarea
-                className="textarea textarea-bordered h-32"
+                className="textarea textarea-bordered h-32 bg-white"
                 placeholder="Write your project"
               ></textarea>
             </label>
